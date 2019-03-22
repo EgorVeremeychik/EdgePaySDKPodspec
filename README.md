@@ -1,0 +1,2 @@
+# EdgePaySDKPodspec
+Podspec for EdgePaySDK
